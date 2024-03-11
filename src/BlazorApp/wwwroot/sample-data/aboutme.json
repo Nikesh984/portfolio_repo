@@ -1,12 +1,13 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a graduate student studying at Northeastern University. I enjoy taking up challenges and solving them with technology.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Web Design",
+    "User Experience",
+    "Application Engineering",
+    "Cloud Computing",
+    "Identity Access Management (IAM)",
+    "C#, ASP.NET Core",
+    "ReactJS, AngularJS"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "Software Engineer with extensive capability of understanding different technologies with experience in testing applications, diagnosing issues and documenting application development"
 }

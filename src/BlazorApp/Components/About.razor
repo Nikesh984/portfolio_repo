@@ -1,9 +1,10 @@
-<section class="light" id="about">
+@* <section class="light" id="about"> *@
+<section id="about">
     @if (hero is not null)
     {
         <img class="background" src="@(hero.Src)" alt="@(hero.Alt)" />
     }
-    <h2>About Myself</h2>
+    <h2 style="color: whitesmoke;">About Myself</h2>
     <div style="background-color: white; width: 50%; padding: 4rem; margin: 3rem auto; text-align: center;">
     @if (aboutMe is null)
     {
